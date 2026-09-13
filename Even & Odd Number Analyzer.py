@@ -18,5 +18,5 @@ print("Result")
 print("Even Numbers=",even)
 print("Even Number length=",len(even))
 print("Odd Numbers=",odd)
-print("Odd Number leanth=",len(odd))
+print("Odd Number length=",len(odd))
 
