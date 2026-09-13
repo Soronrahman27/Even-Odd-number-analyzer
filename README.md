@@ -8,8 +8,13 @@ A simple and beginner-friendly Python script that analyzes numbers within a user
 - Stores even and odd numbers in separate lists.
 - Displays the list of numbers along with the total count (length).
 
-## 💻 How to Run
-1. Make sure you have Python installed.
-2. Run the file using your terminal or IDE:
-   ```bash
-   python "Even & Odd Number Analyzer.py"
+## 📋 Sample Output
+```text
+Enter The first Number: 1
+Enter the last Number: 10
+
+Result
+Even Numbers= [2, 4, 6, 8, 10]
+Even Number length= 5
+Odd Numbers= [1, 3, 5, 7, 9]
+Odd Number length= 5
